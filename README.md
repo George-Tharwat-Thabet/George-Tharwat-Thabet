@@ -1,0 +1,6 @@
+## 👋 Hi, I’m George Tharwat Thabet
+#### I love technology very much and I like to try coding since I was 15 years old and started studying from then until now, and I now have 20 years in the field of programming during this period I have been learning the basics of Android programming and teaching algorithms, Data structure and the Java language and I trained over and over on it and after and after that I entered An initiative called one million Arab programmers aimed at educating a million Arab citizens of programming and the study was on the platform of the Udacity company, so I learned the basics of Android programming and everything related to the Android Studio program in the Java language and XML files, and after that I advanced and learned object-oriented programming in Java and after I learned the basics of Android programming in The Udacity platform did my test and exam in Android programming. Thank God, I excelled in the exam and took the Android Nanodegree programming grant and learned all that is advanced in Android programming such as UI, user inputs, multiple screens, networks, and data storage
+#### During this grant I delivered more than 6 complete projects that I had implemented
+
+#### Then, thank God, I received the Android Nanodegree By Google - Mena certification.
+
